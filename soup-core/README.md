@@ -1,2 +1,2 @@
 # SOUP
-别人吃肉 , 我喝汤
+soup core
